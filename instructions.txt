@@ -14,3 +14,5 @@ convex setup
 
 # Sidebar :
 npm i usehooks-ts
+
+# User Settings :
