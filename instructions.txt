@@ -16,3 +16,5 @@ convex setup
 npm i usehooks-ts
 
 # User Settings :
+
+# Schema & API :
