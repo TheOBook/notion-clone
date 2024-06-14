@@ -1,0 +1,2 @@
+# Environment setup :
+npx shadcn-ui@latest init
