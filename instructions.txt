@@ -29,3 +29,5 @@ npm i usehooks-ts
 
 # Search functionality :
 npm i zustand
+
+# Settings :
