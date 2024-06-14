@@ -11,3 +11,6 @@ npm install next-themes
 npm i convex
 npx convex dev
 convex setup
+
+# Sidebar :
+npm i usehooks-ts
