@@ -6,3 +6,8 @@ just explaning app router
 
 # Landing page :
 npm install next-themes
+
+# Authentication & Database :
+npm i convex
+npx convex dev
+convex setup
