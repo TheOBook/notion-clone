@@ -1,2 +1,5 @@
 # Environment setup :
 npx shadcn-ui@latest init
+
+# Folders setup :
+just explaning app router
