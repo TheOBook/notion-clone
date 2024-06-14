@@ -26,3 +26,6 @@ npm i usehooks-ts
 # Archive functionality :
 
 # Trash box :
+
+# Search functionality :
+npm i zustand
