@@ -3,3 +3,6 @@ npx shadcn-ui@latest init
 
 # Folders setup :
 just explaning app router
+
+# Landing page :
+npm install next-themes
