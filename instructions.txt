@@ -24,3 +24,5 @@ npm i usehooks-ts
 # Document list :
 
 # Archive functionality :
+
+# Trash box :
