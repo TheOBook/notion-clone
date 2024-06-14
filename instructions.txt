@@ -18,3 +18,5 @@ npm i usehooks-ts
 # User Settings :
 
 # Schema & API :
+
+# Sidebar item :
