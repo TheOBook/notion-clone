@@ -39,3 +39,9 @@ npm i zustand
 # Toolbar component (Icon, Title) :
 npm i emoji-picker-react
 npm i react-textarea-autosize
+
+# Cover image (File upload) :
+www.edgestore.dev
+follow the instructions to install it
+npm install @edgestore/server @edgestore/react zod
+npm install tailwind-merge react-dropzone lucide-react
