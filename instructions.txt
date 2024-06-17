@@ -35,3 +35,7 @@ npm i zustand
 # Navbar :
 
 # Banner component :
+
+# Toolbar component (Icon, Title) :
+npm i emoji-picker-react
+npm i react-textarea-autosize
