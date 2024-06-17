@@ -45,3 +45,5 @@ www.edgestore.dev
 follow the instructions to install it
 npm install @edgestore/server @edgestore/react zod
 npm install tailwind-merge react-dropzone lucide-react
+
+# Advanced file upload (delete, replace) :
