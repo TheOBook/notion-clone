@@ -31,3 +31,5 @@ npm i usehooks-ts
 npm i zustand
 
 # Settings :
+
+# Navbar :
