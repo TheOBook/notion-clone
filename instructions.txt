@@ -47,3 +47,6 @@ npm install @edgestore/server @edgestore/react zod
 npm install tailwind-merge react-dropzone lucide-react
 
 # Advanced file upload (delete, replace) :
+
+# Editor component :
+npm i @blocknote/react @blocknote/core

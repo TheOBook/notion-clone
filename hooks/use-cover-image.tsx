@@ -1,3 +1,4 @@
+import { set } from "zod";
 import { create } from "zustand";
 
 type CoverImageStore = {
@@ -11,6 +12,7 @@ type CoverImageStore = {
 export const useCoverImage = create<CoverImageStore>((set) => ({
   url: undefined,
   isOpen: false,
+  /* 6:58:00 video */
   onOpen: () => set({ isOpen: true, url: undefined }),
   onClose: () => set({ isOpen: false, url: undefined }),
   onReplace: (url: string) => set({ isOpen: true, url }),
