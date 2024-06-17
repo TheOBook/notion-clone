@@ -50,3 +50,5 @@ npm install tailwind-merge react-dropzone lucide-react
 
 # Editor component :
 npm i @blocknote/react @blocknote/core
+
+# Preview functionality (Publish your work) :

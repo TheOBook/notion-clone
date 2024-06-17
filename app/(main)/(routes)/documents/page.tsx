@@ -8,11 +8,10 @@ import { Button } from "@/components/ui/button";
 import { useMutation } from "convex/react";
 import { api } from "@/convex/_generated/api";
 import { toast } from "sonner";
-import { useRouter } from "next/router";
+import { useRouter } from "next/navigation";
 
 const DocumentsPage = () => {
   const router = useRouter();
-
   const { user } = useUser();
   const create = useMutation(api.documents.create);
 
